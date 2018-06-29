@@ -1,0 +1,30 @@
+#content
+{
+  margin: 4em;
+}
+#title
+{
+  text-align: center;
+  font-size: 24pt;
+  font-family: helvetica;
+  /*letter-spacing: 18px;*/
+}
+.linkitem
+{
+  width: 20%;
+  display: inline-block;
+  text-align: center;
+}
+#linkbar
+{
+  border: 2px solid black;
+  border-width: 2px 0;
+  text-align: center;
+  font-family: arial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+#About
+{
+  position: relative;
+}
